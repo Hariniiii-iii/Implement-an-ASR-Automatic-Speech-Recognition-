@@ -129,3 +129,9 @@ Word Error Rate (WER): 0.00%
 3. The model returns the transcript along with timed segments.
 4. The result is formatted as txt, srt or json.
 5. If a reference transcript is given, the Word Error Rate is calculated using word-level edit distance.
+
+
+This is the Site !!
+
+<img width="1472" height="1514" alt="image" src="https://github.com/user-attachments/assets/d2bf6bb2-6e41-4f79-b34a-bd7cafb9f41e" />
+
